@@ -19,7 +19,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = "21748181"
 API_HASH = "b1d962414e186e0778911f3183feac33"
-BOT_TOKEN = "5535495243:AAHOn2UwQzUICOKBijd9BFsldLQgRtr-83E"
+BOT_TOKEN = "6524949354:AAGC5_rFNORt2JEvtAuIbY6mXyS0aPDzp4g"
 
 #SESSION = environ.get('SESSION', 'Media_search')
 #API_ID = int(environ['API_ID'])
@@ -37,8 +37,8 @@ MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/f7f2a532fe4b9900
 BOT_START_TIME = time()
 
 # Admins, Channels & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1980321098').split()]
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001525431593').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1980321098 1114457909').split()]
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001801272122').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 auth_grp = environ.get('AUTH_GROUP')
@@ -49,7 +49,7 @@ REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Linkbot:pass@cluster0.0caigo2.mongodb.net/?retryWrites=true&w=majority")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
@@ -67,7 +67,7 @@ COMMAND_HAND_LER = environ.get("COMMAND_HAND_LER", "/")
 DOWNLOAD_LOCATION = environ.get("DOWNLOAD_LOCATION", "./DOWNLOADS/AudioBoT/")
 
 # FSUB
-auth_channel = environ.get("AUTH_CHANNEL", "-1001691634552")
+auth_channel = environ.get("AUTH_CHANNEL", "-100")
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 # Set to False inside the bracket if you don't want to use Request Channel else set it to Channel ID
 REQ_CHANNEL = environ.get("REQ_CHANNEL", False)
@@ -77,9 +77,9 @@ JOIN_REQS_DB = environ.get("JOIN_REQS_DB", DATABASE_URI)
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
 HOW_TO_VERIFY = environ.get("HOW_TO_VERIFY", "https://t.me/How_Tutorial")
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'Urlshorten.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', '207a90217dfca7d5ccfa340dba8f8d4cf24b7b04')
-IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'tnshort.net')
+SHORTLINK_API = environ.get('SHORTLINK_API', '281081e76ef39785824d1b64536764c5bfa0ad5d')
+IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 NO_RESULTS_MSG = bool(environ.get('NO_RESULTS_MSG', False))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "7")
@@ -88,7 +88,7 @@ PORT = environ.get("PORT", "8080")
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Movies_groupchat')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/anime_buzz')
 MSG_ALRT = environ.get('MSG_ALRT', 'Get Content From This Bot')
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001718789952'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001646134279'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/Movies_groupchat')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "False")), False)
