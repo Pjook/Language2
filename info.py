@@ -70,26 +70,26 @@ DOWNLOAD_LOCATION = environ.get("DOWNLOAD_LOCATION", "./DOWNLOADS/AudioBoT/")
 auth_channel = environ.get("AUTH_CHANNEL", "-1001691634552")
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 # Set to False inside the bracket if you don't want to use Request Channel else set it to Channel ID
-REQ_CHANNEL = environ.get("REQ_CHANNEL", False)
+REQ_CHANNEL = environ.get("REQ_CHANNEL", "-1001683130031")
 REQ_CHANNEL = int(REQ_CHANNEL) if REQ_CHANNEL and id_pattern.search(REQ_CHANNEL) else False
 JOIN_REQS_DB = environ.get("JOIN_REQS_DB", DATABASE_URI)
 
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
 HOW_TO_VERIFY = environ.get("HOW_TO_VERIFY", "https://t.me/How_Tutorial")
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'Urlshorten.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', '207a90217dfca7d5ccfa340dba8f8d4cf24b7b04')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'bindaaslinks.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', '19f0a0c1af306fdd130e99d9f06d182af58bd792')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 NO_RESULTS_MSG = bool(environ.get('NO_RESULTS_MSG', False))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "7")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "False")), False)
 PORT = environ.get("PORT", "8080")
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Movies_groupchat')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/anime_buzz')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+ksHPXYxbE3swZGVl')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+C0wJkPOjW6lmODI9')
 MSG_ALRT = environ.get('MSG_ALRT', 'Get Content From This Bot')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001936808456'))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/Movies_groupchat')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/+ksHPXYxbE3swZGVl')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "False")), False)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
