@@ -19,7 +19,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = "21748181"
 API_HASH = "b1d962414e186e0778911f3183feac33"
-BOT_TOKEN = "5535495243:AAFt0sC9WvHPt-w1w1yMLMaSWM4Zk_bhIY8"
+BOT_TOKEN = "6696081594:AAHgaNBmPLcO4YofVJEBDS5TIGNeBhxNb80"
 
 #SESSION = environ.get('SESSION', 'Media_search')
 #API_ID = int(environ['API_ID'])
@@ -37,8 +37,8 @@ MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/f7f2a532fe4b9900
 BOT_START_TIME = time()
 
 # Admins, Channels & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1980321098').split()]
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001525431593').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1980321098 5645800514').split()]
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001948668717').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 auth_grp = environ.get('AUTH_GROUP')
@@ -88,7 +88,7 @@ PORT = environ.get("PORT", "8080")
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Movies_groupchat')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/anime_buzz')
 MSG_ALRT = environ.get('MSG_ALRT', 'Get Content From This Bot')
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001718789952'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001936808456'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/Movies_groupchat')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "False")), False)
