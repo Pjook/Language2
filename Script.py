@@ -23,23 +23,23 @@ Hᴇʏ {}
 
 ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..
 
-🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/AKDverse'>ᴀᴋᴅ ᴠᴇʀsᴇ</a></b>"""
+🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/RR_backup'>RRR BACKUP</a></b>"""
 
     ABOUT_TXT = """<b>
 ‣ ᴍʏ ɴᴀᴍᴇ : {}
 ‣ ᴄʀᴇᴀᴛᴏʀ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ​</a>
-‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/kingBadsha3232'>ᴅᴇᴠ</a>
+‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='tg://openmessage?user_id=5645800514'>ᴅᴇᴠ</a>
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a>
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a>
-‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://t.me/Makemy_telebot'>ᴍᴀᴋᴇ ᴍʏ ʙᴏᴛ</a>
+‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://t.me/Pay_For_Bots_trusted'>ᴍᴀᴋᴇ ᴍʏ ʙᴏᴛ</a>
 ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ​]</b>"""
 
     SOURCE_TXT = """<b>NOTE:
 ⚠️ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ
 ◆ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href='https://github.com/Joelkb/DQ-The-File-Donor'>ʜᴇʀᴇ</a>
 
-◆ GET  CONTENT: <a href='https://t.me/AKDverse'>ᴀᴋᴅ ᴠᴇʀsᴇ</a></b>"""
+◆ GET  CONTENT: <a href='https://t.me/RR_backup'>RRR BACKUP</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -169,11 +169,11 @@ Nᴀᴍᴇ - {}"""
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
     OWNER_INFO = """
-<b>⍟───[ Badsha Studios ]───⍟</b>
+<b>⍟───[ RRR MOVIE BOT ]───⍟</b>
     
-<b>• ꜰᴜʟʟ ɴᴀᴍᴇ :</b> AKD DUBBERS 
-<b>• ᴜꜱᴇʀɴᴀᴍᴇ : @kingBadsha323/b>
-<b>• ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/AKDverse'>ᴄʜᴀɴɴᴇʟ​</a></b>
+<b>• ꜰᴜʟʟ ɴᴀᴍᴇ :</b> Vaishnavi
+<b>• ᴜꜱᴇʀɴᴀᴍᴇ : <a href='tg://openmessage?user_id=5645800514'>Click Here</a></b>
+<b>• ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/RR_backup'>ᴄʜᴀɴɴᴇʟ​</a></b>
 """
     NORSLTS = """
 ★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
@@ -240,7 +240,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
     LOGO = """𝑺𝒕𝒂𝒓𝒕𝒊𝒏𝒈.......🥵"""
     
     EARN_TXT = """
-<b>──────「 <a href='https://t.me/AKDverse'>ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」─────
+<b>──────「 <a href='https://t.me/RR_backup'>ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」─────
 
 Now You can start earning 💸 money today with our Simple and easy-to-use bot!
 
@@ -262,7 +262,7 @@ Now You can start earning 💸 money today with our Simple and easy-to-use bot!
 
 ᴀʟʟ ᴛʜᴇ ꜰɪʟᴇꜱ ɪɴ ᴛʜɪꜱ ʙᴏᴛ ᴀʀᴇ ꜰʀᴇᴇʟʏ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛʜᴇ ɪɴᴛᴇʀɴᴇᴛ ᴏʀ ᴘᴏꜱᴛᴇᴅ ʙʏ ꜱᴏᴍᴇʙᴏᴅʏ ᴇʟꜱᴇ. ᴊᴜꜱᴛ ꜰᴏʀ ᴇᴀꜱʏ ꜱᴇᴀʀᴄʜɪɴɢ ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɪɴᴅᴇxɪɴɢꜰɪʟᴇꜱ ᴡʜɪᴄʜ ᴀʀᴇ ᴀʟʀᴇᴀᴅʏ ᴜᴘʟᴏᴀᴅᴇᴅ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ. ᴡᴇ ʀᴇꜱᴘᴇᴄᴛ ᴀʟʟ ᴛʜᴇ ᴄᴏᴘʏʀɪɢʜᴛ ʟᴀᴡꜱ ᴀɴᴅ ᴡᴏʀᴋꜱ ɪɴ ᴄᴏᴍᴘʟɪᴀɴᴄᴇ ᴡɪᴛʜ ᴅᴍᴄᴀ ᴀɴᴅ ᴇᴜᴄᴅ. ɪꜰ ᴀɴʏᴛʜɪɴɢ ɪꜱ ᴀɢᴀɪɴꜱᴛ ʟᴀᴡ ᴘʟᴇᴀꜱᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ꜱᴏ ᴛʜᴀᴛ ɪᴛ ᴄᴀɴ ʙᴇ ʀᴇᴍᴏᴠᴇᴅ ᴀꜱᴀᴘ. ɪᴛ ɪꜱ ꜰᴏʀʙɪʙʙᴇɴ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ, ꜱᴛʀᴇᴀᴍ, ʀᴇᴘʀᴏᴅᴜᴄᴇ, ᴏʀ ʙʏ ᴀɴʏ ᴍᴇᴀɴꜱ, ꜱʜᴀʀᴇ, ᴏʀ ᴄᴏɴꜱᴜᴍᴇ, ᴄᴏɴᴛᴇɴᴛ ᴡɪᴛʜᴏᴜᴛ ᴇxᴘʟɪᴄɪᴛ ᴘᴇʀᴍɪꜱꜱɪᴏɴ ꜰʀᴏᴍ ᴛʜᴇ ᴄᴏɴᴛᴇɴᴛ ᴄʀᴇᴀᴛᴏʀ ᴏʀ ʟᴇɢᴀʟ ᴄᴏᴘʏʀɪɢʜᴛ ʜᴏʟᴅᴇʀ. ɪꜰ ʏᴏᴜ ʙᴇʟɪᴇᴠᴇ ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴠɪᴏʟᴀᴛɪɴɢ ʏᴏᴜʀ ɪɴᴛᴇʟʟᴇᴄᴛᴜᴀʟ ᴘʀᴏᴘᴇʀᴛʏ, ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ʀᴇꜱᴘᴇᴄᴛɪᴠᴇ ᴄʜᴀɴɴᴇʟꜱ ꜰᴏʀ ʀᴇᴍᴏᴠᴀʟ. ᴛʜᴇ ʙᴏᴛ ᴅᴏᴇꜱ ɴᴏᴛ ᴏᴡɴ ᴀɴʏ ᴏꜰ ᴛʜᴇꜱᴇ ᴄᴏɴᴛᴇɴᴛꜱ, ɪᴛ ᴏɴʟʏ ɪɴᴅᴇx ᴛʜᴇ ꜰɪʟᴇꜱ ꜰʀᴏᴍ ᴛᴇʟᴇɢʀᴀᴍ. </code>
 
-🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='t.me/JAKDverse'>ᴀᴋᴅ ᴠᴇʀsᴇ</a></b>"""
+🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='t.me/RR_backup'>RRR BACKUP</a></b>"""
     
     RENDERING_TXT = """
 ⚡️ʟɪᴠᴇ sʏsᴛᴇᴍ sᴛᴀᴛᴜs ⚡️
@@ -332,7 +332,7 @@ coммand and υѕeѕ
 <b>🎪 ᴛɪᴛɪʟᴇ:- {}
 
 ┏🕵️ ᴀsᴋᴇᴅ ʙʏ:- {}
-┣🔆 ᴘᴏᴡᴇʀᴇᴅ ʙʏ:- <a href='https://t.me/filmy_fundas'>BOT</a> 
+┣🔆 ᴘᴏᴡᴇʀᴇᴅ ʙʏ:- <a href='https://t.me/Movies_searchpro_bot'>BOT</a> 
 ┗🗃 ᴛᴏᴛᴀʟ ꜰɪʟᴇs:-{}
 
 ❇️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : {}</b>"""
