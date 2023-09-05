@@ -834,7 +834,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                   InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                   InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                ],[
-                  InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/AKDverse")
+                  InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/RR_backup")
                  ]
                 ]
             )
@@ -1388,13 +1388,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "support_grp":
         buttons = [[
-            InlineKeyboardButton('🫵 sᴜʙsᴄʀɪʙᴇ​ 🫵', url='https://youtube.com/@Akd-Anime-World')
+            InlineKeyboardButton('🫵 sᴜʙsᴄʀɪʙᴇ​ 🫵', url='https://t.me/RR_backup')
             ],[
-            InlineKeyboardButton('ɢʀᴏᴜᴘ​', url='https://t.me/Movies_groupchat'),
-            InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ​', url='https://t.me/AKDverse')
+            InlineKeyboardButton('ɢʀᴏᴜᴘ​', url='https://t.me/+ksHPXYxbE3swZGVl'),
+            InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ​', url='https://t.me/+C0wJkPOjW6lmODI9')
             ],[      
-            InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ​', url='https://t.me/kingBadsha32322_Bot'),
-            InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs​', url='https://t.me/AKDverse')
+            InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ​', url='https://t.me/+ksHPXYxbE3swZGVl'),
+            InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs​', url='https://t.me/RR_movie_backup')
             ],[
             InlineKeyboardButton('✇ ʜᴏᴍᴇ ✇', callback_data="start")
         ]] 
@@ -1420,7 +1420,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "money_bot":
         buttons = [[
-            InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ sᴜᴘᴘᴏʀᴛ', url='https://t.me/Movies_groupchat')
+            InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ sᴜᴘᴘᴏʀᴛ', url='https://t.me/+ksHPXYxbE3swZGVl')
         ],[
             InlineKeyboardButton('⇍ ʙᴀᴄᴋ', callback_data='start'),
             InlineKeyboardButton('ᴄʟᴏsᴇ ⊝', callback_data='close_data')
