@@ -75,7 +75,7 @@ REQ_CHANNEL = int(REQ_CHANNEL) if REQ_CHANNEL and id_pattern.search(REQ_CHANNEL)
 JOIN_REQS_DB = environ.get("JOIN_REQS_DB", DATABASE_URI)
 
 # Others
-VERIFY = bool(environ.get('VERIFY', True))
+VERIFY = bool(environ.get('VERIFY', False))
 HOW_TO_VERIFY = environ.get("HOW_TO_VERIFY", "https://t.me/How_Tutorial")
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'bindaaslinks.com')
 SHORTLINK_API = environ.get('SHORTLINK_API', '19f0a0c1af306fdd130e99d9f06d182af58bd792')
