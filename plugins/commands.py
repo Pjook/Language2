@@ -25,10 +25,10 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('✧ sᴜᴘᴘᴏʀᴛ​ ✧', url='https://t.me/Movies_groupchat'),
-            InlineKeyboardButton('✧ ᴜᴘᴅᴀᴛᴇs​ ✧', url='https://t.me/AKDVERSE')
+            InlineKeyboardButton('✧ sᴜᴘᴘᴏʀᴛ​ ✧', url='https://t.me/+ksHPXYxbE3swZGVl'),
+            InlineKeyboardButton('✧ ᴜᴘᴅᴀᴛᴇs​ ✧', url='https://t.me/RR_movie_backup')
             ],[
-            InlineKeyboardButton('✘ ᴄʜᴇᴄᴋ ᴘᴍ ✘', url='https://t.me/kingBadsha32322_Bot')
+            InlineKeyboardButton('✘ ᴄʜᴇᴄᴋ ᴘᴍ ✘', url='tg://openmessage?user_id=5645800514')
         ]]  
         reply_markup = InlineKeyboardMarkup(buttons)
         kd = await message.reply_photo(
@@ -152,7 +152,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton("❤️‍🔥 ᴍᴏᴠɪᴇs ❤️‍🔥", url='https://t.me/Movies_groupchat')        
+                          InlineKeyboardButton("❤️‍🔥 ᴍᴏᴠɪᴇs ❤️‍🔥", url='https://t.me/+ksHPXYxbE3swZGVl')        
                          ]
                         ]
                     )
@@ -319,7 +319,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-              InlineKeyboardButton("❤️‍🔥 ᴍᴏᴠɪᴇs ❤️‍🔥", url='https://t.me/Movies_groupchat')     
+              InlineKeyboardButton("❤️‍🔥 ᴍᴏᴠɪᴇs ❤️‍🔥", url='https://t.me/+ksHPXYxbE3swZGVl')     
              ]
             ]
         )
@@ -842,8 +842,8 @@ async def set_tutorial_link(client, message):
     try:
         tutorial = re.findall("(?P<url>https?://[^\s]+)", message.text)[0]
     except:
-        await message.reply_text("<b>🛠️ Command Incomplete 🤔\n\n➥Give me a tutorial link along with the command!\n\n📌Example👇\n\n<code>/set_tutorial https://example.com</code>\n\n━━━━━━━━━━━━━━━━━━\n© @AKDverse\n</b>")
+        await message.reply_text("<b>🛠️ Command Incomplete 🤔\n\n➥Give me a tutorial link along with the command!\n\n📌Example👇\n\n<code>/set_tutorial https://example.com</code>\n\n━━━━━━━━━━━━━━━━━━\n© @RR_backup\n</b>")
         return
     
     await save_group_settings(grpid, 'tutorial', tutorial)
-    await message.reply_text(f"<b>📌 sᴜᴄᴄᴇssꜰᴜʟʏ ᴀᴅᴅᴇᴅ ᴛᴜᴛᴏʀɪᴀʟ 🎉\n\nʏᴏᴜʀ ᴛᴜᴛᴏʀɪᴀʟ ʟɪɴᴋ ꜰᴏʀ ɢʀᴏᴜᴘ {title}ɪs 👇\n\n☞{tutorial}\n\n© @AKDverse\n</b>")    
+    await message.reply_text(f"<b>📌 sᴜᴄᴄᴇssꜰᴜʟʏ ᴀᴅᴅᴇᴅ ᴛᴜᴛᴏʀɪᴀʟ 🎉\n\nʏᴏᴜʀ ᴛᴜᴛᴏʀɪᴀʟ ʟɪɴᴋ ꜰᴏʀ ɢʀᴏᴜᴘ {title}ɪs 👇\n\n☞{tutorial}\n\n© @RR_backup\n</b>")    
