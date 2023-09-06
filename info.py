@@ -77,8 +77,8 @@ JOIN_REQS_DB = environ.get("JOIN_REQS_DB", DATABASE_URI)
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
 HOW_TO_VERIFY = environ.get("HOW_TO_VERIFY", "https://t.me/How_Tutorial")
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'bindaaslinks.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', '19f0a0c1af306fdd130e99d9f06d182af58bd792')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'urlspay.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'a0e58e0dd118bb1b8fd98cfb29198f50b0ebd48f')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 NO_RESULTS_MSG = bool(environ.get('NO_RESULTS_MSG', False))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
