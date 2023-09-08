@@ -185,7 +185,7 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
     
     CAPTION = """
-@AKDverse  {file_name}
+@RR_backup  {file_name}
 
 ❍ sɪᴢᴇ : {file_size}"""
 
