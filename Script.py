@@ -171,8 +171,8 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ RRR MOVIE BOT ]───⍟</b>
     
-<b>• ꜰᴜʟʟ ɴᴀᴍᴇ :</b> Vaishnavi
-<b>• ᴜꜱᴇʀɴᴀᴍᴇ : <a href='tg://openmessage?user_id=5645800514'>Click Here</a></b>
+<b>• ꜰᴜʟʟ ɴᴀᴍᴇ :</b> Doraemon 
+<b>• ᴜꜱᴇʀɴᴀᴍᴇ : <a href='tg://openmessage?user_id=5842491924'>Click Here</a></b>
 <b>• ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/RR_backup'>ᴄʜᴀɴɴᴇʟ​</a></b>
 """
     NORSLTS = """
